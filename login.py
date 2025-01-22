@@ -2,9 +2,9 @@ import tkinter as tk
 from tkinter import messagebox
 
 users = {
-    "havva": "12345",
+    "amin": "12345",
     "ali": "54321",
-    "tahereh": "55132"
+    "zahra": "55132"
 }
 
 
